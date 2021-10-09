@@ -1,8 +1,8 @@
 mysql:
-  username: root
+  username: root__
   password: 123456
 github:
-  username: rentaian
+  username: rentaian__
   email: rentaian2016@163.com
  users:
   user1:
