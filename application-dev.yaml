@@ -1,5 +1,5 @@
 mysql:
-  username: __root__
+  username: __root
   password: 123456
 git:
-  username: __rentaian__
+  username: __rentaian
